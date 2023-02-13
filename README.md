@@ -2,7 +2,7 @@
 
 Me chamo Thayrone E sou Desenvolvedor Front-end, Sou mineiro uai! " Um pãozin de queijo com um cafezin hmmm Trem bão de mais da conta sô! " gamer nas minhas horas de lazer , adoro cozinhar e inventar coisas na cozinha, amo plantas e a natureza e simplesmente perfeita, adoro roça vida no campo (mais só fins de semana) não consigo ficar desconectado por muito tempo rsrs! apaixonado por esportes no geral! (mais sou bem sedentário admito)
 
-Levo comigo: "conhecimento nunca é demais". Atualmente conclui o curso de Desenvolvimento de Software fornecido pela Cubos Academy, onde pude desenvolver habilidades no front-end Junior, com HTML, CSS, JavaScript puro e React.js. No back-end, usei o NodeJS aprendi a criar bancos de dados relacionais com o PostgreSQL, desenvolvi APIs REST aplicando autenticação e criptografia.
+Levo comigo: "conhecimento nunca é demais". Atualmente conclui o curso de Desenvolvimento de Software fornecido pela Cubos Academy, onde pude desenvolver habilidades no front-end, com HTML, CSS, JavaScript puro e React.js. No back-end, usei o NodeJS aprendi a criar bancos de dados relacionais com o PostgreSQL, desenvolvi APIs REST aplicando autenticação e criptografia.
 
 ## Para Me Encontrar:
 
