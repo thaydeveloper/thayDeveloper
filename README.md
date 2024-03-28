@@ -4,9 +4,7 @@ Me chamo Thayrone E sou Desenvolvedor Fullstack Sou mineiro uai! " Um pãozin de
 
 Levo comigo: "conhecimento nunca é demais"
 
-Conclui o curso de Desenvolvimento de Software fornecido pela Cubos Academy, onde pude desenvolver habilidades no front-end, com HTML, CSS, JavaScript puro e React.js. No back-end, usei o NodeJS aprendi a criar bancos de dados relacionais com o PostgreSQL, desenvolvi APIs REST aplicando autenticação e criptografia.
-
-Atualmente Estou trabalhando em projetos particulares e alguns freelas...
+Atualmente Estou trabalhando Bw tecnologia  e em projetos particulares e alguns freelas...
 
 ## Para Me Encontrar:
 
