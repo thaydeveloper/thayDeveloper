@@ -4,8 +4,6 @@ Me chamo Thayrone E sou Desenvolvedor Fullstack Sou mineiro uai! " Um pãozin de
 
 Levo comigo: "conhecimento nunca é demais"
 
-Atualmente Estou trabalhando Bw tecnologia  e em projetos particulares e alguns freelas...
-
 ## Para Me Encontrar:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayrone-souza/ )
