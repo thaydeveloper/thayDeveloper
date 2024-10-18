@@ -23,4 +23,4 @@ Levo comigo: "conhecimento nunca é demais"
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayDeveloper&langs_count=8)](https://github.com/thayDeveloper)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thayDeveloper&show_icons=true&theme=radical)](https://github.com/thayDeveloper)
+
